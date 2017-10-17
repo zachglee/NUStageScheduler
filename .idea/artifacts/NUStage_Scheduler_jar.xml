@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="NUStage Scheduler:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NUStage_Scheduler_jar</output-path>
+    <root id="archive" name="NUStage Scheduler.jar">
+      <element id="module-output" name="NUStage Scheduler" />
+    </root>
+  </artifact>
+</component>

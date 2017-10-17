@@ -1,0 +1,5 @@
+AllFree1;
+AllFree2;
+Disjoint; Mon 3:00am - 4:00am;
+Last5; Mon 0:00am - 1:00am;
+Last4; Mon 0:00am - 2:00am; 

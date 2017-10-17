@@ -1,0 +1,6 @@
+EventA1 @ Room1 - 1 - A
+EventB1 @ Room1 - 2 - B
+EventC1 @ Room1 - 1 - C
+EventA2 @ Room2 - 2 - A
+EventD1 @ Room2 - 2 - D
+EventE1 @ Room2 - 1 - E

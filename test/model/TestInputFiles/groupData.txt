@@ -1,0 +1,5 @@
+A - AllFree2, Disjoint
+B - AllFree1, Last5
+C - AllFree2
+D - AllFree1
+E - AllFree2, Last4
